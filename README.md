@@ -1,6 +1,16 @@
 # Programming-Tips-iOS
 A list of tricks and tips for iOS programming
 
+##Xcode
+
+##Cocoa
+
+##Objective-C
+
+##Swift
+
+##Playgrounds
+
 ##Debugging
 
 ###Views
